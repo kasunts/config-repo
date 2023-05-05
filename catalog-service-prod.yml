@@ -1,2 +1,4 @@
 polar:
   greeting: "Welcome to the production catalog from the config server"
+  entrance: 1000
+  accommodation: charged
